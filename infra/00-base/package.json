@@ -1,0 +1,10 @@
+{
+    "name": "00-base",
+    "main": "index.js",
+    "dependencies": {
+        "@pulumi/pulumi": "^1.0.0",
+        "@pulumi/aws": "^1.0.0",
+        "@pulumi/awsx": "^0.18.10",
+        "js-base64": "^2.5.2"
+    }
+}

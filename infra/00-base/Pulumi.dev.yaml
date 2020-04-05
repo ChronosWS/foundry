@@ -1,0 +1,5 @@
+config:
+  aws:region: us-west-2
+  00-base:users:
+    - name: cliff
+      pgpKeyPath: ../../etc/public_keys/cliff.gpg
